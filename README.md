@@ -1,3 +1,3 @@
 # hepo
 
-usage : node hipo.js url time
+usage : node hepo.js url time
